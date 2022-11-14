@@ -8,7 +8,8 @@
     "start": "nodemon app.js"
   },
   "keywords": [
-    "chat",
+    "login",
+    "register",
     "node"
   ],
   "author": "Nithya",
