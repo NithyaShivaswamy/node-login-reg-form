@@ -37,3 +37,5 @@ cd node-login-reg-form
 npm install
 npm start
 ```
+
+This is built while learning from [login form](https://blog.logrocket.com/building-simple-login-form-node-js/)
